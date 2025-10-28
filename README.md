@@ -51,7 +51,7 @@ npm start
 ---
 ### 💗 Made with Love
 
-# _Bloom & Blish — Elegance in Every Petal 🌷_
+#### _Bloom & Blish — Elegance in Every Petal 🌷_
 
 ---
  **Website Link** : https://blishblooms.netlify.app/
