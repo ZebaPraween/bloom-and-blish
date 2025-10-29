@@ -109,7 +109,7 @@ header .icons a
         display:flex;
         align-items: center;
         min-height: 110vh;
-        background:url("mothers-day-concept-with-beautiful-roses.jpg") no-repeat;
+        background:url("/assets/mothers-day-concept-with-beautiful-roses.jpg") no-repeat;
         background-size:cover;
         background-position:center;
 
